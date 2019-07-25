@@ -4,6 +4,6 @@ It is a Unity3d project to demonstrate the appearance of grass I modified and th
 
 I have uploaded a Demo Video to Youtube.
 
-Unity Version: 2018.3.0f2
+Unity Version: 2018.3.8f1
 
 Youtube Demo Link: https://www.youtube.com/watch?v=VEMcbtPFdQE
